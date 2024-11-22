@@ -1,0 +1,13 @@
+- Hi, I’m Jean, my usename gave up my name, I'm not a fan of jeans 👖 
+- 👀 Fluid dynamics is my thing, well among other things.
+- I was a terrible student, but I just want to shoutout to all my teachers, thanks! Sharing knowledge is something I admire
+- 🌱 I've used MatLab, codes written in C, C++, Python, Fortran but shit, do I know them?? No!! So I'm here to get better and try some stuff that I have in mind
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Jean-mon/Jean-mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
